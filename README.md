@@ -1,6 +1,6 @@
 # OLS-Linear-Regression-of-GDP-towards-Inflation-Germany-
 
-I try to find the correlation between GDP and inflation in Germany using simple linear regression OLS method in Python. The period used in this data is from 1960-2018. Using Python libraries such as numpy, pandas, and seaborr, we could see the correlation through table and graphic.
+I try to find the correlation between GDP (Billions of Dollars) and inflation(%) in Germany using simple linear regression OLS method in Python. The period used in this data is from 1960-2018. Using Python libraries such as numpy, pandas, and seaborr, we could see the correlation through table and graphic.
 
 1. import related libraries and extracting data into pandadata frames [macrodataDE](https://github.com/altheanabila/OLS-Linear-Regression-of-GDP-towards-Inflation-Germany-/blob/main/macrodataDE.xlsx)
 
