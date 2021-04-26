@@ -22,4 +22,4 @@ I try to find the correlation between GDP (Billions of Dollars) and inflation(%)
 
 5. Visualize the graph! ;)
 
-![image1](https://github.com/altheanabila/OLS-Linear-Regression-of-GDP-towards-Inflation-Germany-/blob/main/macrodataDE4.png)
+![image1](https://github.com/altheanabila/OLS-Linear-Regression-of-GDP-towards-Inflation-Germany/blob/main/MacroDE5.png)
